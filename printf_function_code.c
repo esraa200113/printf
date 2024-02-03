@@ -1,6 +1,7 @@
 #include "main.h"
 #include <unistd.h>
-
+#include <stdarg.h>
+#include <string.h>
 /**
  * _printf - Prints output according to a format.
  * @format: Format string.
